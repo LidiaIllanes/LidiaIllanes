@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer</h3>
 <h4 align= "center">After an intense and amazing 9 week experience at Le Wagon i am ready to keep on learning and improving!✨</h4>
 
-- 🌱 I’m currently learning **TDD, RSPEC**
+- 🌱 I’m currently learning **TDD, RSPEC and REACT**
 
 - 👨‍💻 All of my projects are available at ...(coming soon)
 
